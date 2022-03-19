@@ -11,6 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        // git kak zhe ti zaebal
         // Do any additional setup after loading the view.
     }
 
